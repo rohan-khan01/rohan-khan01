@@ -1,4 +1,4 @@
-![I am rohan-khan01](https://https://github.com/rohan-khan01/rohan-khan01/blob/main/code.png)
+![I am rohan-khan01](https://https://github.com/rohan-khan01/rohan-khan01/blob/main/code.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Rohan Khan(Tutul)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>

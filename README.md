@@ -1,8 +1,8 @@
 ![I am rohan-khan01](https://github.com/rohan-khan01/rohan-khan01/blob/main/code.png?raw=true)
 
-<h1 align="center">Hi 👋, I'm Rohan Khan(Tutul)</h1>
+<h1 align="center">Hi 👋, I'm Rohan Khan(Jafar)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h4 align="center">Student at Hablu Programmer</h4>
 
 <div align="center">
 
@@ -24,7 +24,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 📫 How to reach me **rohankhan2968@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/rohan-khan01](https://lnk.bio/rohan-khan01)
+- 📄 All About Me:(https://lnk.bio/rohan-khan01)
 
 <h3 align="left">Connect with me:</h3>
 
@@ -66,7 +66,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 ## Best Repo -
 
-[![rohan-khan01](https://github-readme-stats.vercel.app/api/pin/?username=rohan-khan01=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https:[//github.com/harun181/Java-Project](https://github.com/rohan-khan01/rohan-khan01))
+[![rohan-khan01](https://github-readme-stats.vercel.app/api/pin/?username=rohan-khan01=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https:[//github.com/rohan-khan01/rohan-khan01](https://github.com/rohan-khan01/rohan-khan01))
 
 <p align="left">
   <a href="https://github.com/harun181?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -80,7 +80,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 <p align="center">
   <a href="https://github.com/harun181">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harun181&theme=radical" alt="Harun's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohan-khan01theme=radical" alt="Harun's GitHub Contribution"/>
   </a>
 </p>
 

@@ -66,7 +66,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 ## Best Repo -
 
-[![rohan-khan01](https://github-readme-stats.vercel.app/api/pin/?username=rohan-khan01=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https:[//github.com/rohan-khan01/rohan-khan01](https://github.com/rohan-khan01/rohan-khan01))
+[![rohan-khan01](https:[//github.com/rohan-khan01/rohan-khan01](https://github.com/rohan-khan01/rohan-khan01))
 
 <p align="left">
   <a href="https://github.com/harun181?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -79,8 +79,8 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 ## Github Stats -
 
 <p align="center">
-  <a href="https://github.com/harun181">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohan-khan01theme=radical" alt="Harun's GitHub Contribution"/>
+  <a href="https://github.com/rohan-khan01">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohan-khan01theme=radical" alt="Rohan's GitHub Contribution"/>
   </a>
 </p>
 

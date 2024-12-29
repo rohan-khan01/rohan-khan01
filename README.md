@@ -1,7 +1,7 @@
 ![I am rohan-khan01](https://github.com/rohan-khan01/rohan-khan01/blob/main/code.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Rohan Khan(Jafar)</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
+<h3 align="center">Programmer | Web Designer | Graphics Designer </h3>
 <h4 align="center">Student at Hablu Programmer</h4>
 
 <div align="center">
@@ -16,7 +16,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning full stack web development
 
-- 👨‍💻 All of my projects are available at [https://github.com/rohan-khan01](https://github.com/rohan-khan0)
+- 👨‍💻 All of my projects are available at [https://github.com/rohan-khan01](https://github.com/rohan-khan01)
 
 - 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
 
@@ -30,13 +30,13 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 <p align="center">
 <a href="https://fb.com/mdrohan.khan.1238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-rohan-khan-9a7356335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://codepen.io/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://www.youtube.com/[channel/UCttZMJCI9L9PbfJkQw7o-0Q](https://www.youtube.com/@rohankhan-official850)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
-<a href="https://instagram.com/tutul_181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-<a href="https://dribbble.com/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://www.behance.net/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="harun181" height="30" width="40" /></a>
+<a href="https://codepen.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@rohankhan-official850)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
+<a href="https://dribbble.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="harun181" height="30" width="40" /></a>
+<a href="https://www.behance.net/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="harun181" height="30" width="40" /></a>
 </p>
 
 ## Use To Code
@@ -66,13 +66,13 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 ## Best Repo -
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/Java-Project)
-[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/100_plus_C_Problems)
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/front_end_projects)
-[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/weblitical)
+[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=rohan-khan01&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rohan-khan01/Java-Project)
+[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=rohan-khan01&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rohan-khan01/100_plus_C_Problems)
+[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=rohan-khan01&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rohan-khan01/front_end_projects)
+[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=rohan-khan01&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rohan-khan01/weblitical)
 
 <p align="left">
-  <a href="https://github.com/harun181?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/rohan-khan01?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -82,19 +82,18 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 ## Github Stats -
 
 <p align="center">
-  <a href="https://github.com/harun181">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harun181&theme=radical" alt="Harun's GitHub Contribution"/>
+  <a href="https://github.com/rohan-khan01">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohan-khan01&theme=radical" alt="Rohan's GitHub Contribution"/>
   </a>
 </p>
 
-
 <a> 
     <a href="https://github.com/rohan-khan01"><img alt="Rohan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rohan-khan01&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/rohan-khan01"><img alt="Rohan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rohan-khan01&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/rohan-khan01"><img alt="ROhan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rohan-khan01&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![Rhan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohan-khan01&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Rhan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohan-khan01&custom_title=Rohan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
@@ -104,13 +103,13 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 <div align="center">
 <br/>
-<a href="https://twitter.com/tutul181" target="_blank">
+<a href="https://twitter.com/" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://https:www.linkedin.com/in/md-rohan-khan-9a7356335/" target="_blank">
+<a href="https:www.linkedin.com/in/md-rohan-khan-9a7356335/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.https://www.facebook.com/mdrohan.khan.1238" target="_blank">
+<a href="https://www.fb.com/mdrohan.khan.1238" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
 </div>

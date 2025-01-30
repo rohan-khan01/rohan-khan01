@@ -1,7 +1,7 @@
 ![I am rohan-khan01](https://github.com/rohan-khan01/rohan-khan01/blob/main/code.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Rohan Khan(Jafar)</h1>
-<h3 align="center">Programmer | Web Designer | Graphics Designer </h3>
+<h3 align="center"> </h3>
 <h4 align="center">Student at Hablu Programmer</h4>
 
 <div align="center">
